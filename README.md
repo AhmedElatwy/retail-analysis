@@ -1,3 +1,3 @@
 # retail Data Cleaning, analysis and visualization to find how to imporove the sales deployed improved data analysis.
 ### project link
-https://hub.labs.coursera.org/connect/sharedxxhbplzf?forceRefresh=false&path=%2Fnotebooks%2Fonline_retail.ipynb&isLabVersioning=file-prep
+https://www.kaggle.com/code/ahmedealtwy/online-retail-analysis?scriptVersionId=167168818
